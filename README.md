@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
- - Currently studing Computer Science at Instituto Superior de Engenharia de Coimbra
+ - Currently studying Computer Science at Instituto Superior de Engenharia de Coimbra
 
 ## More about me
 
