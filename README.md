@@ -48,10 +48,10 @@
 #### 📊 Github Statistics
 
 <a href="https://github.com/GecRaf">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GecRaf&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GecRaf&theme=merko" />
 </a>
 
 <a href="https://github.com/GecRaf">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GecRaf&hide=html&layout=compact&theme=merko" alt="GecRaf github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GecRaf&hide=html&layout=compact&theme=merko" alt="GecRaf github stats"/>
 </a>
 
