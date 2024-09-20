@@ -6,10 +6,10 @@
 
 ```html
 <h1> Hi, I'm Rafael Couto! </h1>
-<h2> Currently studying Computer Science </h2>
+<h2> Currently working for Critical Software </h2>
 <ul>
   <l1> Portugal </li>
-  <l1> Frontend Engineer </li>
+  <l1> Fullstack Engineer </li>
 </ul>
   <h2> Curiosities </h2>
 <ul>
@@ -31,14 +31,14 @@
      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
      <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="java"/>
      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="java"/>
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="java"/>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java"/>
  </p>
 
 ---
 
 #### 🕵️‍♂️ Looking forward to learn
 <p align="center">
-     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="java"/>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java"/>
      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="java"/>
      <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="java"/>
  </p>
